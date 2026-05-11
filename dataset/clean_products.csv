@@ -1,0 +1,39 @@
+product_id,name,category,price,color,stock,created_at
+P001,Running Shoes,footwear,89.99,blue,34,2025-01-10T08:30:00Z
+P002,Wireless Mouse,electronics,19.99,black,120,2025-01-10T09:10:00Z
+P003,Office Chair,furniture,129.0,,15,
+P004,Yoga Mat,fitness,29.99,green,50,2025-01-12
+P007,Travel Mug ,kitchen,12.5,silver,200,2025-01-15T07:00:00Z
+P008,Desk Lamp,home,35.0,white,45,2025-01-16
+P009,Water Bottle,fitness,14.0,blue,120,2025-01-17T12:00:00Z
+P010,Phone Case,electronics,9.99,clear,500,2025-01-18
+P013,Bluetooth Speaker,electronics,39.95,red,85,2025-01-20T10:15:00Z
+P014,Hiking Backpack,outdoors,74.5,olive,42,2025-01-21
+P015,Desk Lamp,home,24.99,white,150,2025-01-22T18:30:00Z
+P016,Yoga Blocks,fitness,14.0,tan,200,2025-01-22
+P017,Ceramic Mug Set,kitchen,28.0,ivory,60,2025-01-23T08:15:00Z
+P018,Wireless Charger,electronics,18.75,black,210,2025-01-24T09:00:00Z
+P019,Notebook Pack,office,12.0,assorted,300,2025-01-25
+P020,Running Socks,apparel,9.5,gray,500,2025-01-26T06:00:00Z
+P021,Garden Gloves,outdoors,7.25,green,90,2025-01-27T11:45:00Z
+P022,Stainless Straw Set,kitchen,6.5,silver,400,2025-01-28
+P023,Noise Cancelling Earbuds,electronics,59.99,white,140,2025-02-01T10:00:00Z
+P024,Camping Lantern,outdoors,24.5,yellow,65,2025-02-02
+P025,Desk Organizer,office,12.75,black,220,2025-02-03T09:30:00Z
+P026,Foam Roller,fitness,18.0,gray,90,2025-02-03
+P027,Electric Kettle,kitchen,34.95,silver,55,2025-02-04T07:10:00Z
+P028,Trail Hat,apparel,16.5,tan,130,2025-02-05
+P029,USB-C Cable Pack,electronics,9.0,black,500,2025-02-06T08:00:00Z
+P030,Cork Yoga Wheel,fitness,27.25,brown,40,2025-02-06
+P031,Stainless Lunch Box,kitchen,22.0,steel,75,2025-02-07T12:20:00Z
+P032,Travel Pillow,travel,15.5,navy,110,2025-02-08
+P033,LED Strip Lights,electronics,19.99,multicolor,300,2025-02-09T18:00:00Z
+P034,Garden Trowel,outdoors,6.25,green,180,2025-02-09
+P035,Pet Brush,pets,11.0,blue,95,2025-02-10T09:45:00Z
+P036,Board Game Set,toys,29.95,assorted,45,2025-02-11
+P037,Wall Clock,home,14.75,white,70,2025-02-12T14:30:00Z
+P038,Silicone Baking Mat,kitchen,8.5,red,260,2025-02-12
+P039,Reusable Tote,accessories,5.99,teal,500,2025-02-13T16:05:00Z
+P040,Bike Repair Kit,outdoors,21.0,black,55,2025-02-14
+P041,Compact Umbrella,travel,13.25,purple,120,2025-02-15T08:40:00Z
+P042,Phone Stand,electronics,7.0,clear,200,2025-02-16
