@@ -1,0 +1,295 @@
+2026-05-11T08:49:53Z - run_pipeline.sh: started
+2026-05-11T08:49:53Z - run_pipeline.sh: starting filename organization
+2026-05-11T08:49:53Z - organize_files.sh: started
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/PRODUCT 003.json to raw/product_003_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/PRODUCT 015.json to raw/product_015_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/PRODUCT 032.json to raw/product_032_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/PRODUCT 041.JSON to raw/product_041_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/PRODUCT-028.json to raw/product_028_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/PRODUCT_012.json to raw/product_012_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/PRODUCT_019.Json to raw/product_019_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/PRODUCT_025.JSON to raw/product_025_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/PRODUCT_037.json to raw/product_037_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/PrOducT 001.json to raw/product_001_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/PrOducT 013.json to raw/product_013_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/PrOducT 023.json to raw/product_023_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/PrOducT 035.JSoN to raw/product_035_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/Product 021.Json to raw/product_021_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/Product 026.JSoN to raw/product_026_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/Product 038.Json to raw/product_038_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/Product-004.json to raw/product_004_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/Product-017.json to raw/product_017_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/Product-034.Json to raw/product_034_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/Product-040.json to raw/product_040_20260511T084953Z.json
+2026-05-11T08:49:53Z - organize_files.sh: copied json_dump/Product_030.Json to raw/product_030_20260511T084953Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product 007.json to raw/product_007_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product 008.txt to raw/product_008_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product 010.json to raw/product_010_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product 018.json to raw/product_018_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product 029.JSON to raw/product_029_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product-002.Json to raw/product_002_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product-011.json to raw/product_011_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product-014.Json to raw/product_014_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product-020.JSON to raw/product_020_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product-024.Json to raw/product_024_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product-031.json to raw/product_031_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product-036.JSON to raw/product_036_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product_005.JSoN to raw/product_005_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product_006.JSON to raw/product_006_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product_009.json to raw/product_009_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product_016.JSON to raw/product_016_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product_022.json to raw/product_022_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product_027.json to raw/product_027_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product_033.JSON to raw/product_033_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product_039.JSoN to raw/product_039_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: copied json_dump/product_042.json to raw/product_042_20260511T084954Z.json
+2026-05-11T08:49:54Z - organize_files.sh: finished
+2026-05-11T08:49:54Z - run_pipeline.sh: starting validation and routing
+2026-05-11T08:49:54Z - validate_and_route.sh: validating raw/product_001_20260511T084953Z.json
+2026-05-11T08:49:54Z - validate_json.py: valid JSON: raw/product_001_20260511T084953Z.json
+2026-05-11T08:49:54Z - validate_and_route.sh: valid raw/product_001_20260511T084953Z.json
+2026-05-11T08:49:54Z - validate_and_route.sh: validating raw/product_002_20260511T084954Z.json
+2026-05-11T08:49:54Z - validate_json.py: valid JSON: raw/product_002_20260511T084954Z.json
+2026-05-11T08:49:54Z - validate_and_route.sh: valid raw/product_002_20260511T084954Z.json
+2026-05-11T08:49:54Z - validate_and_route.sh: validating raw/product_003_20260511T084953Z.json
+2026-05-11T08:49:54Z - validate_json.py: valid JSON: raw/product_003_20260511T084953Z.json
+2026-05-11T08:49:54Z - validate_and_route.sh: valid raw/product_003_20260511T084953Z.json
+2026-05-11T08:49:54Z - validate_and_route.sh: validating raw/product_004_20260511T084953Z.json
+2026-05-11T08:49:54Z - validate_json.py: valid JSON: raw/product_004_20260511T084953Z.json
+2026-05-11T08:49:54Z - validate_and_route.sh: valid raw/product_004_20260511T084953Z.json
+2026-05-11T08:49:54Z - validate_and_route.sh: validating raw/product_005_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_json.py: invalid JSON in raw/product_005_20260511T084954Z.json: Expecting ',' delimiter: line 9 column 2 (char 151)
+2026-05-11T08:49:55Z - validate_and_route.sh: copied invalid file raw/product_005_20260511T084954Z.json to invalid/
+2026-05-11T08:49:55Z - validate_and_route.sh: validating raw/product_006_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_json.py: missing required fields in raw/product_006_20260511T084954Z.json: product id, category, metadata
+2026-05-11T08:49:55Z - validate_and_route.sh: copied invalid file raw/product_006_20260511T084954Z.json to invalid/
+2026-05-11T08:49:55Z - validate_and_route.sh: validating raw/product_007_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_json.py: valid JSON: raw/product_007_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_and_route.sh: valid raw/product_007_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_and_route.sh: validating raw/product_008_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_json.py: valid JSON: raw/product_008_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_and_route.sh: valid raw/product_008_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_and_route.sh: validating raw/product_009_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_json.py: valid JSON: raw/product_009_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_and_route.sh: valid raw/product_009_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_and_route.sh: validating raw/product_010_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_json.py: valid JSON: raw/product_010_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_and_route.sh: valid raw/product_010_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_and_route.sh: validating raw/product_011_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_json.py: empty file: raw/product_011_20260511T084954Z.json
+2026-05-11T08:49:55Z - validate_and_route.sh: copied invalid file raw/product_011_20260511T084954Z.json to invalid/
+2026-05-11T08:49:55Z - validate_and_route.sh: validating raw/product_012_20260511T084953Z.json
+2026-05-11T08:49:55Z - validate_json.py: empty file: raw/product_012_20260511T084953Z.json
+2026-05-11T08:49:55Z - validate_and_route.sh: copied invalid file raw/product_012_20260511T084953Z.json to invalid/
+2026-05-11T08:49:55Z - validate_and_route.sh: validating raw/product_013_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_json.py: valid JSON: raw/product_013_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: valid raw/product_013_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: validating raw/product_014_20260511T084954Z.json
+2026-05-11T08:49:56Z - validate_json.py: valid JSON: raw/product_014_20260511T084954Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: valid raw/product_014_20260511T084954Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: validating raw/product_015_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_json.py: valid JSON: raw/product_015_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: valid raw/product_015_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: validating raw/product_016_20260511T084954Z.json
+2026-05-11T08:49:56Z - validate_json.py: valid JSON: raw/product_016_20260511T084954Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: valid raw/product_016_20260511T084954Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: validating raw/product_017_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_json.py: valid JSON: raw/product_017_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: valid raw/product_017_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: validating raw/product_018_20260511T084954Z.json
+2026-05-11T08:49:56Z - validate_json.py: valid JSON: raw/product_018_20260511T084954Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: valid raw/product_018_20260511T084954Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: validating raw/product_019_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_json.py: valid JSON: raw/product_019_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: valid raw/product_019_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: validating raw/product_020_20260511T084954Z.json
+2026-05-11T08:49:56Z - validate_json.py: valid JSON: raw/product_020_20260511T084954Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: valid raw/product_020_20260511T084954Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: validating raw/product_021_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_json.py: valid JSON: raw/product_021_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: valid raw/product_021_20260511T084953Z.json
+2026-05-11T08:49:56Z - validate_and_route.sh: validating raw/product_022_20260511T084954Z.json
+2026-05-11T08:49:57Z - validate_json.py: valid JSON: raw/product_022_20260511T084954Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: valid raw/product_022_20260511T084954Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: validating raw/product_023_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_json.py: valid JSON: raw/product_023_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: valid raw/product_023_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: validating raw/product_024_20260511T084954Z.json
+2026-05-11T08:49:57Z - validate_json.py: valid JSON: raw/product_024_20260511T084954Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: valid raw/product_024_20260511T084954Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: validating raw/product_025_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_json.py: valid JSON: raw/product_025_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: valid raw/product_025_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: validating raw/product_026_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_json.py: valid JSON: raw/product_026_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: valid raw/product_026_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: validating raw/product_027_20260511T084954Z.json
+2026-05-11T08:49:57Z - validate_json.py: valid JSON: raw/product_027_20260511T084954Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: valid raw/product_027_20260511T084954Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: validating raw/product_028_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_json.py: valid JSON: raw/product_028_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: valid raw/product_028_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: validating raw/product_029_20260511T084954Z.json
+2026-05-11T08:49:57Z - validate_json.py: valid JSON: raw/product_029_20260511T084954Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: valid raw/product_029_20260511T084954Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: validating raw/product_030_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_json.py: valid JSON: raw/product_030_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: valid raw/product_030_20260511T084953Z.json
+2026-05-11T08:49:57Z - validate_and_route.sh: validating raw/product_031_20260511T084954Z.json
+2026-05-11T08:49:58Z - validate_json.py: valid JSON: raw/product_031_20260511T084954Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: valid raw/product_031_20260511T084954Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: validating raw/product_032_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_json.py: valid JSON: raw/product_032_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: valid raw/product_032_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: validating raw/product_033_20260511T084954Z.json
+2026-05-11T08:49:58Z - validate_json.py: valid JSON: raw/product_033_20260511T084954Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: valid raw/product_033_20260511T084954Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: validating raw/product_034_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_json.py: valid JSON: raw/product_034_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: valid raw/product_034_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: validating raw/product_035_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_json.py: valid JSON: raw/product_035_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: valid raw/product_035_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: validating raw/product_036_20260511T084954Z.json
+2026-05-11T08:49:58Z - validate_json.py: valid JSON: raw/product_036_20260511T084954Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: valid raw/product_036_20260511T084954Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: validating raw/product_037_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_json.py: valid JSON: raw/product_037_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: valid raw/product_037_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: validating raw/product_038_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_json.py: valid JSON: raw/product_038_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: valid raw/product_038_20260511T084953Z.json
+2026-05-11T08:49:58Z - validate_and_route.sh: validating raw/product_039_20260511T084954Z.json
+2026-05-11T08:49:59Z - validate_json.py: valid JSON: raw/product_039_20260511T084954Z.json
+2026-05-11T08:49:59Z - validate_and_route.sh: valid raw/product_039_20260511T084954Z.json
+2026-05-11T08:49:59Z - validate_and_route.sh: validating raw/product_040_20260511T084953Z.json
+2026-05-11T08:49:59Z - validate_json.py: valid JSON: raw/product_040_20260511T084953Z.json
+2026-05-11T08:49:59Z - validate_and_route.sh: valid raw/product_040_20260511T084953Z.json
+2026-05-11T08:49:59Z - validate_and_route.sh: validating raw/product_041_20260511T084953Z.json
+2026-05-11T08:49:59Z - validate_json.py: valid JSON: raw/product_041_20260511T084953Z.json
+2026-05-11T08:49:59Z - validate_and_route.sh: valid raw/product_041_20260511T084953Z.json
+2026-05-11T08:49:59Z - validate_and_route.sh: validating raw/product_042_20260511T084954Z.json
+2026-05-11T08:49:59Z - validate_json.py: valid JSON: raw/product_042_20260511T084954Z.json
+2026-05-11T08:49:59Z - validate_and_route.sh: valid raw/product_042_20260511T084954Z.json
+2026-05-11T08:49:59Z - run_pipeline.sh: starting JSON processing
+2026-05-11T08:49:59Z - process_jsons.py: Processing 38 valid files
+2026-05-11T08:49:59Z - process_jsons.py: Wrote cleaned file clean/product_001_20260511T084953Z.json
+2026-05-11T08:49:59Z - process_jsons.py: Archived original file to archive/product_001_20260511T084953Z.json
+2026-05-11T08:49:59Z - process_jsons.py: Wrote cleaned file clean/product_002_20260511T084954Z.json
+2026-05-11T08:49:59Z - process_jsons.py: Archived original file to archive/product_002_20260511T084954Z.json
+2026-05-11T08:49:59Z - process_jsons.py: Wrote cleaned file clean/product_003_20260511T084953Z.json
+2026-05-11T08:49:59Z - process_jsons.py: Archived original file to archive/product_003_20260511T084953Z.json
+2026-05-11T08:49:59Z - process_jsons.py: Wrote cleaned file clean/product_004_20260511T084953Z.json
+2026-05-11T08:49:59Z - process_jsons.py: Archived original file to archive/product_004_20260511T084953Z.json
+2026-05-11T08:49:59Z - process_jsons.py: Wrote cleaned file clean/product_007_20260511T084954Z.json
+2026-05-11T08:49:59Z - process_jsons.py: Archived original file to archive/product_007_20260511T084954Z.json
+2026-05-11T08:49:59Z - process_jsons.py: Wrote cleaned file clean/product_008_20260511T084954Z.json
+2026-05-11T08:49:59Z - process_jsons.py: Archived original file to archive/product_008_20260511T084954Z.json
+2026-05-11T08:49:59Z - process_jsons.py: Wrote cleaned file clean/product_009_20260511T084954Z.json
+2026-05-11T08:49:59Z - process_jsons.py: Archived original file to archive/product_009_20260511T084954Z.json
+2026-05-11T08:49:59Z - process_jsons.py: Wrote cleaned file clean/product_010_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_010_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_013_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_013_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_014_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_014_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_015_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_015_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_016_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_016_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_017_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_017_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_018_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_018_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_019_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_019_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_020_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_020_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_021_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_021_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_022_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_022_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_023_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_023_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_024_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_024_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_025_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_025_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_026_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_026_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_027_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_027_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_028_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_028_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_029_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_029_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_030_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_030_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_031_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_031_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_032_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_032_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_033_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_033_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_034_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_034_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_035_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_035_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_036_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_036_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_037_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_037_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_038_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_038_20260511T084953Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Wrote cleaned file clean/product_039_20260511T084954Z.json
+2026-05-11T08:50:00Z - process_jsons.py: Archived original file to archive/product_039_20260511T084954Z.json
+2026-05-11T08:50:01Z - process_jsons.py: Wrote cleaned file clean/product_040_20260511T084953Z.json
+2026-05-11T08:50:01Z - process_jsons.py: Archived original file to archive/product_040_20260511T084953Z.json
+2026-05-11T08:50:01Z - process_jsons.py: Wrote cleaned file clean/product_041_20260511T084953Z.json
+2026-05-11T08:50:01Z - process_jsons.py: Archived original file to archive/product_041_20260511T084953Z.json
+2026-05-11T08:50:01Z - process_jsons.py: Wrote cleaned file clean/product_042_20260511T084954Z.json
+2026-05-11T08:50:01Z - process_jsons.py: Archived original file to archive/product_042_20260511T084954Z.json
+2026-05-11T08:50:01Z - process_jsons.py: Processing complete
+2026-05-11T08:50:01Z - run_pipeline.sh: starting dataset merge
+2026-05-11T08:50:05Z - merge_to_dataset.py: Starting dataset merge
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_001_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_002_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_003_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_004_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_007_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_008_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_009_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_010_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_013_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_014_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_015_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_016_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_017_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_018_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_019_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_020_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_021_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_022_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_023_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_024_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_025_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_026_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_027_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_028_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_029_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_030_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_031_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_032_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_033_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_034_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_035_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_036_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_037_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_038_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_039_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_040_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_041_20260511T084953Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Loaded clean/product_042_20260511T084954Z.json
+2026-05-11T08:50:05Z - merge_to_dataset.py: Wrote dataset to dataset/clean_products.csv
+2026-05-11T08:50:05Z - merge_to_dataset.py: Dataset merge complete
+2026-05-11T08:50:05Z - run_pipeline.sh: completed successfully
